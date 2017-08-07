@@ -1,0 +1,25 @@
+.container{
+    background-color: cornsilk;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+header img{
+    width: 25%;
+    display: inline-block;
+    max-width: 200px;
+}
+h1{
+    width: 70%;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+th{
+    font-style: oblique;
+}
+h2{
+    background-color: lightblue; 
+}
+table, th, td{
+    border: solid 1px black;
+}
